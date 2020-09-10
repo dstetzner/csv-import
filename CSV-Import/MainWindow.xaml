@@ -1,0 +1,24 @@
+﻿<Window x:Class="CSV_Import.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSV_Import"
+        mc:Ignorable="d"
+        Title="Import Banking Files" Height="450" Width="800">
+    <Grid>
+
+        <TabControl>
+            
+            <TabItem Header="CSV Import">
+                <Label Content="We will use this tab to set up the interface to select the CSV file" />
+            </TabItem>
+            
+            <TabItem Header="Data for Review" />
+            
+            <TabItem Header="Data Ready for Export" />
+            
+        </TabControl>
+
+    </Grid>
+</Window>

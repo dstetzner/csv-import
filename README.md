@@ -8,3 +8,5 @@ Once the data is the in the database we will use identifiers to export the parse
 Progress Tracker
 
 1. Start the Project
+
+2. Add some tabs and lets format - https://www.wpf-tutorial.com/tabcontrol/using-the-tabcontrol/
