@@ -10,3 +10,5 @@ Progress Tracker
 1. Start the Project
 
 2. Add some tabs and lets format - https://www.wpf-tutorial.com/tabcontrol/using-the-tabcontrol/
+
+3. Solid article around a whole project like this - https://www.codeproject.com/Articles/30705/C-CSV-Import-Export
